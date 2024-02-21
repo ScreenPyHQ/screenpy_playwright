@@ -131,7 +131,7 @@ split-on-trailing-comma = false
 
 [tool.poetry]
 name = "screenpy_playwright"
-version = "0.0.2"
+version = "0.0.3"
 description = "ScreenPy extension to enable interacting with Playwright."
 authors = ["Perry Goy <perry.goy@gmail.com>"]
 maintainers = ["Marcel Wilson"]
