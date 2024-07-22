@@ -1,6 +1,18 @@
 Release History
 ===============
 
+0.0.7 (2024-07-22)
+------------------
+
+### New Features
+
+- Added `SaveConsoleLog` Action to save the console logs encountered during a test.
+
+### Dev Niceties
+
+- Reorganized classes to have consistent method organization.
+
+
 0.0.6 (2024-07-16)
 ------------------
 
