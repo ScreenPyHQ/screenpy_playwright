@@ -8,7 +8,7 @@ INT. SITEPACKAGES DIRECTORY
 ScreenPy Playwright is an extension for ScreenPy which enables Actors to use
 the Playwright browser automation tool.
 
-:copyright: (c) 2019-2025 by Perry Goy.
+:copyright: (c) 2019-2026 by Perry Goy.
 :license: MIT, see LICENSE for more details.
 """
 
